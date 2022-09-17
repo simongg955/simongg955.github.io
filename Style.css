@@ -1,0 +1,46 @@
+header {
+  background: rgb(15, 15, 163);
+  width: 100%;
+  position:fixed;
+  z-index: 100;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: #eca023;
+}
+
+
+.mmm{
+   float: right;
+}
+
+
+body{
+  color: white;
+  background-color: black;
+}
+
+video{
+  float: left;
+}
+
